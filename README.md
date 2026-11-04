@@ -1,6 +1,6 @@
 ### Ignacio García Ribelles
 
-Biostatistics and data science for biomarkers and diagnostics, in R. Bioinformatician at University Hospital Tübingen, relocating to Barcelona.
+Bioinformatician and data scientist working in R and Pythonat University Hospital Tübingen.
 
 - **Work:** immune monitoring of a peptide-vaccine trial with Bayesian hierarchical models of assay variance; assay positivity cut-offs derived from the lab's own replicates; survival analysis of a tumour-board cohort; tested R and Nextflow pipelines that biologists run themselves. That code lives in private lab repositories.
 - **Public projects:**
